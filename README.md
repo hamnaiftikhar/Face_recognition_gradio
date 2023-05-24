@@ -23,4 +23,3 @@ The code provided demonstrates a basic implementation of face recognition using 
    - It calls the `recognize_faces` function to perform face recognition on the image.
    - The processed image is displayed using `cv2.imshow`, and `cv2.waitKey` is used to wait for a key press to close the window.
 
-It's important to note that in the code you provided, the face recognition model (`face_model`) and the loading code for the embeddings files are missing. You would need to replace the placeholder code with the appropriate face recognition model and loading mechanism. Additionally, the file paths for the input image and the embeddings files need to be provided.
